@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_TVS
+D TVS diode, transient voltage suppression
+K Diode, TVS, transient voltage, suppression
+$ENDCMP
+#
+#End Doc Library
