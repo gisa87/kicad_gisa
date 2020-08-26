@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS27081A
+K mosfet driver, mosfet, power control
+$ENDCMP
+#
+#End Doc Library
